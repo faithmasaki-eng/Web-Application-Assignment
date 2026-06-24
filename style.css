@@ -1,0 +1,41 @@
+ <style>
+     h1{
+    text-align: center;
+    font-family: times new roman;
+    font-size: 30px;
+    color: black;
+     } 
+     
+     h2{
+        font-family: 'Franklin Gothic Medium';
+        font-size: 20px;
+        text-align: left ;
+        color: #04c5fa;
+     }
+
+     h3{
+        font-family: 'Franklin Gothic Medium';
+        font-size: 20px;
+        text-align: left;
+        color: #04c5fa;
+     }
+     h4{
+        font-family: 'Franklin Gothic Medium';
+        font-size: 20px;
+        text-align: left;
+        color: #04c5fa;
+     }
+     h5{
+        font-family: 'Franklin Gothic Medium';
+        font-size: 20px;
+        text-align: left;
+        color: #04c5fa;
+     }
+     body{
+        background-image: url(https://image.slidesdocs.com/responsive-images/background/medical-medicine-hexagon-geometric-gradient-blue-powerpoint-background_defdc84cfe__655_368.jpg);
+        font-family: sans-serif;
+      
+     }
+     </style>
+
+    </html>
